@@ -97,25 +97,18 @@ body {
 }
 
 .contact-list li {
-    /* display: flex; */
     flex-direction: column;
     list-style-type: none;
     margin-bottom: 10px;
     text-align: center;
-    /* gap:; */
 }
 
 .contact-list strong {
-
     font-weight: bold;
-
     width: 100px;
-
 }
 
 .contact-list a {
-    /* display: flex; */
-    /* flex-direction: column; */
     display: inline-block;
     margin-left: 10px;
 }
